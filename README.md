@@ -20,5 +20,27 @@ This project builds a predictive model to suggest optimal gift categories (or ty
 
 ---
 
-## 📦 Repository Structure
+
+---
+
+## 🧪 Setup & Reproduction
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/39LPeter/valentine-day-gift-prediction.git
+   cd valentine-day-gift-prediction
+Create a virtual environment and install dependencies:
+
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+
+Open the Jupyter notebook:
+
+jupyter notebook notebooks/valentine\ day\ gift\ prediction\ model.ipynb
+
+
+Run each cell step by step to reproduce the analysis and results.
+
 
